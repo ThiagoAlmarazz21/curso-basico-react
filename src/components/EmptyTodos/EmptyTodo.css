@@ -1,0 +1,19 @@
+.EmptyTodo-container {
+  text-align: center;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.EmptyTodo-text {
+  font-size: 20px;
+}
+.black-text {
+  color: black;
+  font-weight: bold;
+}
+
+.icono-empty {
+  width: 200px;
+}

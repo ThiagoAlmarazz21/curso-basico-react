@@ -1,0 +1,12 @@
+.todo-counter {
+  color: #1E1E1F;
+  font-weight: 400;
+  font-size: 22px;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+}
+.black {
+  color: black;
+  font-weight: 600;
+}

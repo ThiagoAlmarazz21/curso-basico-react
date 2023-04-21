@@ -1,0 +1,10 @@
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0 0 56px 0;
+  list-style: none;
+}

@@ -1,0 +1,24 @@
+.loader-container {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.loader {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 5px solid #61DAFA;
+  border-top-color: transparent;
+  animation: spin 1.2s linear infinite;
+}
+.LoadingTodo-text {
+  font-size: 24px;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
